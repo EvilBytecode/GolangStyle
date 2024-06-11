@@ -2,11 +2,14 @@
 Best Looking Windows Color Library made for Go users!
 ![ConsoleLooks](https://github.com/EvilBytecode/GolangStyle/assets/151552809/d1bb0610-2c74-4049-b37e-797fb5c4d345)
 
+## Install
+- ```go mod init bestcolorlib```
+- ```go get github.com/EvilBytecode/GolangStyle/pkg```
+- ```go run .```
 
 ## GoStyle Functions
 
 - Sample README that provides documentation for the functions in the GoStyle package.
-
 ## `Init() error`
 
 - **Description:** Initializes the console, comes with simple error handle.
