@@ -69,17 +69,7 @@ gostyle.Write("Your text here", gostyle.PURPLE_TO_BLUE, true)
 gostyle.WriteColorized("Your text here", "red", true)
 ```
 
-## `WriteAscii(text string, gradient gostyle.Gradient, true/false)`
-
-- **Description:** Writes ASCII art to the console with an optional gradient and centers it based on your choice.
-- **Parameters:**
-  - `text string`: ASCII art to be written to the console.
-  - `gradient gostyle.Gradient`: Optional gradient color for the ASCII art.
-  - `true`: You Decide if it should be in center set true or false based on if you want the text to be centered or not.
-- **Sample Usage:** 
-```go
-gostyle.WriteAscii("Your ASCII art here", gostyle.PURPLE_TO_BLUE, true)
-```
+### MORE IN ```main.go```
 
 Remember to import the `gostyle` package before using these functions.
 
