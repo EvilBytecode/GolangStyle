@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/EvilBytecode/GolangStyle"
+	"github.com/EvilBytecode/GolangStyle/pkg"
 )
 
 func main() {
