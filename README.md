@@ -72,7 +72,7 @@ gostyle.WriteColorized("Your text here", "red", true)
 ### MORE IN ```main.go```
 
 Remember to import the `gostyle` package before using these functions.
-
+### issues with some ascii styles will be fixed soon, i just need to find time for it. but most of them are supported
 ### Credits:
 - https://github.com/MmCopyMemory (Lots of help)
 - https://github.com/billythegoat356 (GoStyle Idea, From Python to Go)
