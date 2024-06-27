@@ -1,5 +1,7 @@
 # GoStyle
 Best Looking Windows Color Library made for Go users!
+<a href="https://t.me/pulzetools"><img src="https://img.shields.io/badge/Join%20my%20Telegram%20group-2CA5E0?style=for-the-badge&logo=telegram&labelColor=db44ad&color=5e2775"></a>
+
 ![ConsoleLooks](https://github.com/EvilBytecode/GolangStyle/assets/151552809/d1bb0610-2c74-4049-b37e-797fb5c4d345)
 
 ## Install
