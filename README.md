@@ -78,3 +78,7 @@ Remember to import the `gostyle` package before using these functions.
 ### Credits:
 - https://github.com/MmCopyMemory (Lots of help)
 - https://github.com/billythegoat356 (GoStyle Idea, From Python to Go)
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
